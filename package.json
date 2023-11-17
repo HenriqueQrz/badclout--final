@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "local-storage": "^2.0.0",
+    "storage": "^0.2.0"
+  }
+}
